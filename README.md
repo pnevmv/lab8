@@ -74,5 +74,5 @@ This client application is designed to manage objects within a collection, utili
 # Previous versions
 
 + [lab7](https://github.com/pnevmv/lab7) -  Client-Server console application without GUI
-+ [lab6](https://github.com/pnevmv/lab6) -  Client-Server console application without GUI, storage data in file instead of database
-+ [lab5](https://github.com/pnevmv/lab5-2.0) - Console application without GUI, storage data in file instead of database
++ [lab6](https://github.com/pnevmv/lab6) -  Client-Server console application without GUI and using of database
++ [lab5](https://github.com/pnevmv/lab5-2.0) - Console application without GUI and without using of database
