@@ -57,7 +57,7 @@ This client application is designed to manage objects within a collection, utili
   + Use the graphical interface to interact with the application, such as sending messages, requesting data from the server, etc.
 
 # List of available commands:
-+ `help`: display help on available commands
++ `help`: display list of available commands
 + `info`: print information about the collection (type, initialization date, number of elements, etc.) to standard output
 + `show`: Print to standard output all the elements of the collection in string representation
 + `add {element}`: add a new element to the collection
