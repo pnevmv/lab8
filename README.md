@@ -1,4 +1,4 @@
-## Client-Server Application with GUI using JavaFX
+## Client-Server Application with GUI (Java SE + JavaFX)
 
 This client application is designed to manage objects within a collection, utilizing a relational database management system (PostgreSQL) for data storage. The application implements the following features:
 
