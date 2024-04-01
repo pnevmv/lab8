@@ -70,3 +70,9 @@ This client application is designed to manage objects within a collection, utili
 + `remove_greater {element}` : remove from the collection all elements greater than the given one
 + `remove_lower {element}` : remove all elements from the collection that are smaller than the given one
 + `history`: print the last 5 commands (without their arguments)
+
+# Previous versions
+
++ [lab7](https://github.com/pnevmv/lab7) -  Client-Server console application without GUI
++ [lab6](https://github.com/pnevmv/lab6) -  Client-Server console application without GUI, storage data in file instead of database
++ [lab5](https://github.com/pnevmv/lab5-2.0) - Console application without GUI, storage data in file instead of database
