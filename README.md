@@ -35,7 +35,7 @@ This client application is designed to manage objects within a collection, utili
 5. Editing Fields: Users can edit individual fields of any object belonging to them. Editing an object can be initiated from the table displaying the list of objects or from the visualization area.
 6. Deletion of Objects: Users can delete selected objects, even if the remove command has not been executed previously.
 
-# Responsibilities of the server application:
+# The functionality of the server application:
 
 1. Managing a collection of objects.
 2. Purpose of automatically generated fields of objects in the collection.
